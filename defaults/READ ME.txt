@@ -1,0 +1,3 @@
+hi if you're looking to adding custom sounds, remember that this only supports .wav files! not .mp3's!!!
+
+- file last changed 4/3/2026
