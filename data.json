@@ -16,11 +16,6 @@
       "name": "READ ME.txt",
       "path": "kita\\sounds",
       "source": "https://raw.githubusercontent.com/pvhak/storage/5e85e670dda65c71da6fc28e285ceb748c08567e/defaults/READ%20ME.txt"
-    },
-    {
-      "name": "kita.png",
-      "path": "kita",
-      "source": "https://raw.githubusercontent.com/pvhak/storage/9f635025e428d9ceeaf4837327fde41b21ce22ad/defaults/kita.png"
     }
   ]
 }
