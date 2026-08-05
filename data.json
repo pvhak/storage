@@ -15,7 +15,12 @@
     {
       "name": "READ ME.txt",
       "path": "kita\\sounds",
-      "source": "https://raw.githubusercontent.com/pvhak/storage/5e85e670dda65c71da6fc28e285ceb748c08567e/defaults/READ%20ME.txt"
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/READ%20ME.txt"
+    },
+    {
+      "name": "note.txt",
+      "path": "kita\\",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/note.txt"
     }
   ]
 }
