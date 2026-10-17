@@ -66,9 +66,9 @@
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/Fuji.png"
     },
     {
-      "name": "Oguri_Cap.png",
+      "name": "oguri1.png",
       "path": "kita\\imgs",
-      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/Oguri_Cap.png"
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/oguri1.png"
     },
     {
       "name": "kita1.png",
@@ -81,7 +81,7 @@
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/kita2.png"
     },
     {
-      "name": "oguri.png",
+      "name": "oguri2.png",
       "path": "kita\\imgs",
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/oguri.png"
     },
@@ -89,6 +89,21 @@
       "name": "sophie.png",
       "path": "kita\\imgs",
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/sophie.png"
+    },
+    {
+      "name": "miho.png",
+      "path": "kita\\imgs",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/miho.png"
+    },
+    {
+      "name": "yukari.png",
+      "path": "kita\\imgs",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/yukari.png"
+    },
+    {
+      "name": "SF.png",
+      "path": "kita\\imgs",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/SF.png"
     }
   ],
   "other": [
