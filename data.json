@@ -79,6 +79,16 @@
       "name": "kita2.png",
       "path": "kita\\imgs",
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/kita2.png"
+    },
+    {
+      "name": "oguri.png",
+      "path": "kita\\imgs",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/oguri.png"
+    },
+    {
+      "name": "sophie.png",
+      "path": "kita\\imgs",
+      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/sophie.png"
     }
   ],
   "other": [
