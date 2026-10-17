@@ -86,11 +86,6 @@
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/oguri.png"
     },
     {
-      "name": "sophie.png",
-      "path": "kita\\imgs",
-      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/sophie.png"
-    },
-    {
       "name": "miho.png",
       "path": "kita\\imgs",
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/miho.png"
@@ -99,11 +94,6 @@
       "name": "yukari.png",
       "path": "kita\\imgs",
       "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/yukari.png"
-    },
-    {
-      "name": "SF.png",
-      "path": "kita\\imgs",
-      "source": "https://raw.githubusercontent.com/pvhak/storage/refs/heads/main/defaults/imgs/SF.png"
     }
   ],
   "other": [
